@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorkshopsBigvu</string>
+    <string name="workshops_url">https://bigvu-interviews-assets.s3.amazonaws.com/</string>
+    <string name="workshops_json">workshops.json</string>
+    <string name="something_wrong">something wrong has happened</string>
+    <string name="search_by_description">search by description</string>
+    <string name="dont_have_internet_connection">You don\'t have internet connection</string>
+    <string name="title_activity_compose_workshop_details">ComposeWorkshopDetails</string>
+</resources>
